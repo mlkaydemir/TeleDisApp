@@ -40,7 +40,7 @@ Projeyi yerelde çalıştırmak için aşağıdaki adımları izleyin:
 ## 🎥 Uygulama Calışma Videosu (YouTube)
 
 [Uygulama Tanıtım Videosu - YouTube Linki](https://youtube.com/shorts/FWs0pmF92uE?si=TeabDZ6tSbx65yQi)
-*(Challenge gereği 1 dakikalık video)*
+
 
 ## 📄 APK Çıktısı
 
@@ -50,3 +50,4 @@ Derleme sonrası APK dosyası şu konumda oluşacaktır:
 ---
 **Geliştirici**: Melike Aydemir  
 **Ödev**: Mobil Uygulama Geliştirme (ReactNative + Android Studio)
+
